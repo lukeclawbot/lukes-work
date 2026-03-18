@@ -1,19 +1,19 @@
 # Luke's Work
 
-This repository is the general workspace repo for Luke's broader working materials.
+General workspace materials and repo index.
 
-## What Lives Here
+## What Belongs Here
 
-Use this repo for documents and files that do **not** belong in the more specialized repositories.
+Use this repo for durable workspace files that do not clearly belong in the more specialized repositories.
 
-Typical examples:
+Examples:
 
-- general notes
-- durable workspace materials
 - repo standards
-- miscellaneous supporting files
+- general notes
+- supporting files
+- miscellaneous durable workspace materials
 
-## Repository Index
+## Related Repositories
 
 ### Reports
 Finished report-style documents and research summaries:
@@ -30,10 +30,6 @@ Drafts, work-in-progress notes, rough ideas, and temporary working documents:
 
 - <https://github.com/lukeclawbot/scratchpad>
 
-## Local Standards
+## Standards
 
-- See `REPO-STANDARDS.md` for naming and usage guidance.
-
-## Notes
-
-This repo is intended to stay lighter and more general-purpose, while reports, planning documents, and drafts are separated into their own dedicated repositories.
+- See `REPO-STANDARDS.md` for naming, README, and document-flow guidance.
