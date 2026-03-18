@@ -2,22 +2,38 @@
 
 This repository is the general workspace repo for Luke's broader working materials.
 
-## Purpose
+## What Lives Here
 
 Use this repo for documents and files that do **not** belong in the more specialized repositories.
 
-## Related Repositories
+Typical examples:
+
+- general notes
+- durable workspace materials
+- repo standards
+- miscellaneous supporting files
+
+## Repository Index
 
 ### Reports
-Monthly and research-style reports live here:
+Finished report-style documents and research summaries:
 
 - <https://github.com/lukeclawbot/reports>
 
 ### Planning Docs
-Planning, architecture, and implementation guides live here:
+Planning, architecture, setup, and implementation guides:
 
 - <https://github.com/lukeclawbot/planning-docs>
 
+### Scratchpad
+Drafts, work-in-progress notes, rough ideas, and temporary working documents:
+
+- <https://github.com/lukeclawbot/scratchpad>
+
+## Local Standards
+
+- See `REPO-STANDARDS.md` for naming and usage guidance.
+
 ## Notes
 
-This repo is intended to stay lighter and more general-purpose, while reports and planning documents are separated into their own dedicated repositories.
+This repo is intended to stay lighter and more general-purpose, while reports, planning documents, and drafts are separated into their own dedicated repositories.
