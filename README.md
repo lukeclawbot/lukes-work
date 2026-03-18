@@ -1,15 +1,23 @@
 # Luke's Work
 
-A public repository for Luke's planning documents, setup guides, and infrastructure/workstation notes.
+This repository is the general workspace repo for Luke's broader working materials.
 
-## Contents
+## Purpose
 
-This repo currently contains documentation such as:
+Use this repo for documents and files that do **not** belong in the more specialized repositories.
 
-- Mac workstation setup guides
-- Azure landing zone planning documents
-- infrastructure and governance notes
+## Related Repositories
+
+### Reports
+Monthly and research-style reports live here:
+
+- <https://github.com/lukeclawbot/reports>
+
+### Planning Docs
+Planning, architecture, and implementation guides live here:
+
+- <https://github.com/lukeclawbot/planning-docs>
 
 ## Notes
 
-Monthly Azure and Microsoft 365 update reports now live in the separate `reports` repository.
+This repo is intended to stay lighter and more general-purpose, while reports and planning documents are separated into their own dedicated repositories.
